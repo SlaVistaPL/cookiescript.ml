@@ -1,4 +1,4 @@
-# cookiescript.ml
+# CookieScript.ml
 Poinformuj swoich odwiedzających, że strona zbiera dane od użytkowników w postaci plików cookies. Szybko, łatwo i prosto!
 
 ### Poradnik na umieszczenie cookie consentu z cookiescript.ml:

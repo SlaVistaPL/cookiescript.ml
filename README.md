@@ -5,6 +5,7 @@ Poinformuj swoich odwiedzających, że strona zbiera dane od użytkowników w po
 - Zrób [prettyprint](https://webformatter.com/html) kodu dostępnego na stronie (lub skopiuj go z GitHuba).
 - Umieść styl CSS i skrypt JS w sekcji `<head>` lub zalinkuj go poprzez odpowiednio `<link rel="stylesheet">` i `<script src="">`.
 - Kod HTML definiujący zawartość cookie consentu umieść przed tagiem zamykającym `<body>`.
+- Przy tagu otwierającym sekcję `<body>` umieść właściwość `onload="autoDispose()"`.
 - Gotowe, twój cookie consent już się wyświetla!
 
 ### Polskie prawo a pliki cookies

@@ -13,3 +13,9 @@ Polskie prawo wymaga od właścicieli stron zbierających dane o użytkownikach 
 
 ### Czym są tzw. ciasteczka i do czego służą?
 To niewielkie informacje nazywane ciasteczkami (z ang. cookie – ciastko), wysyłane przez serwis internetowy, który odwiedzamy i zapisywane na urządzeniu końcowym. W tzw. ciasteczkach znajdują się różne informacje niezbędne do prawidłowego funkcjonowania serwisów internetowych, np. tych wymagających autoryzacji. Wszystkie działające w internecie serwisy – wyszukiwarki, strony informacyjne, newsowe, sklepy internetowe, strony urzędów państwowych i innych instytucji publicznych, mogą prawidłowo działać dzięki wykorzystaniu plików cookies. Ciasteczka umożliwiają także m.in. zapamiętanie naszych preferencji i personalizowanie stron internetowych w zakresie wyświetlanych treści oraz dopasowania reklam.
+
+### Licencja open-source
+Kod pochodzący z CookieScript.ml został udostępniony na licencji open-source - oznacza to, że możesz modyfikować udostępniony kod źródłowy na własny użytek oraz go udostępniać na własnej stronie.
+
+### Wesprzyj dewelopera!
+Dobrowolny datek możesz przesłać [tutaj.](https://tipply.pl/u/SlaVistaPL)
